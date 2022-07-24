@@ -13,6 +13,7 @@ git commit -m
 git commit -am
 git log 
 git  push origin main
-git tag -a   "id del commit" -m "Mensaje
+git tag -a   "id del commit" -m "Mensaje"
 git tag
 git push origin --tags
+git branch "Nombre de la segunda rama"
