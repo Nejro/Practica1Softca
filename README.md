@@ -7,3 +7,6 @@ cd practicas
 cd Practica1softca
 git init 
 git add README.md
+git status
+git add .
+git commi -m
