@@ -9,4 +9,10 @@ git init
 git add README.md
 git status
 git add .
-git commi -m
+git commit -m
+git commit -am
+git log 
+git  push origin main
+git tag -a   "id del commit" -m "Mensaje
+git tag
+git push origin --tags
